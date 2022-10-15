@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/temperatura-almita/static/css/main.e6c13ad2.css",
+    "main.js": "/temperatura-almita/static/js/main.881f75bf.js",
+    "static/js/111.199d0da5.chunk.js": "/temperatura-almita/static/js/111.199d0da5.chunk.js",
+    "index.html": "/temperatura-almita/index.html",
+    "main.e6c13ad2.css.map": "/temperatura-almita/static/css/main.e6c13ad2.css.map",
+    "main.881f75bf.js.map": "/temperatura-almita/static/js/main.881f75bf.js.map",
+    "111.199d0da5.chunk.js.map": "/temperatura-almita/static/js/111.199d0da5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.881f75bf.js"
+  ]
+}
